@@ -1,0 +1,22 @@
+body {
+  background-color: #282c34;
+}
+
+.App {
+  margin: 0 auto;
+  max-width: 860px;
+  text-align: center;
+}
+
+.App-header {
+  align-items: center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  justify-content: center;
+}
+
+.App-link {
+  color: #61dafb;
+}

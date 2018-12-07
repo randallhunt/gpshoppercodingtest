@@ -1,0 +1,15 @@
+.person {
+    color: #fff;
+    cursor: pointer;
+    display: flex;
+    margin: 8px;
+}
+
+.person .details {
+    padding: 6px;
+    text-align: left;
+}
+
+.person h3 {
+    margin: 3px 0;
+}

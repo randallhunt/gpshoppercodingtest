@@ -1,0 +1,31 @@
+.detail {
+    color: #fff;
+    margin: 1em 0;
+    text-align: center;
+}
+
+.detail .image {
+    min-height: 300px;
+    min-width: 200px;
+    text-align: center;
+}
+
+.detail .image img {
+    display: block;
+    height: 300px;
+    margin: 0 auto;
+}
+
+.detail .info {
+    color: #fff;
+    padding: 5px;
+    text-align: center;
+}
+
+.detail .info .link {
+    cursor: pointer;
+}
+
+.detail .info .link:hover {
+    text-decoration: underline;
+}
